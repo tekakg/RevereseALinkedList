@@ -12,6 +12,7 @@ public class Main {
             int val = src.nextInt();
             list.add(val);
         }
+        //After formatting
         System.out.println(list);
         Collections.reverse(list);
         System.out.println(list);
